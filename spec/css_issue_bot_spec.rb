@@ -1,4 +1,4 @@
-require "pry"
+lrequire "pry"
 
 RSpec.describe 'styling' do
   context 'within style.css' do
